@@ -1,0 +1,48 @@
+1. Basic Analysis:
+
+a. How many different ticket classes are there in the dataset?
+b. What is the total number of passengers listed in the dataset?
+
+
+2. Survival Analysis:
+
+a. How many passengers survived, and how many did not?
+b. What percentage of passengers survived?
+
+3. Gender Analysis:
+
+a. How many male and female passengers were on board?
+b. Compare the number of male survivors to female survivors. Who had a higher survival rate?
+
+4. Age Analysis:
+
+a. What is the average age of the passengers?
+b. How many passengers were under 18 years old?
+
+5.Fare Analysis:
+
+What is the range of ticket prices? (Find the minimum and maximum ticket prices)
+How many passengers paid more than $50 for their ticket?
+
+6. Family Analysis:
+
+How many passengers traveled alone (i.e., with no siblings/spouses and no parents/children)?
+What is the average number of siblings or spouses aboard for the passengers?
+
+
+
+Visualization Ideas
+
+Gender Distribution:
+
+Use a pie chart or bar chart to show the distribution of male and female passengers.
+
+Age Distribution:
+
+Create a histogram to show the age distribution of passengers.
+
+Embarkation Points:
+
+Create a bar chart to show the number of passengers who embarked from each port.
+
+

@@ -1,0 +1,17 @@
+INFO:root:This is my normal information about the software run
+ERROR:root:This is the error msg
+WARNING:root:This is my warning
+CRITICAL:root:This is critical msg
+INFO:root:This is my info msg
+WARNING:root:This is my warning msg
+INFO:root:info message
+INFO:root:processing each element 1
+INFO:root:processing each element hello
+INFO:root:processing each element [2, 'world']
+INFO:root:processing sublist element: 2
+INFO:root:processing sublist element: world
+INFO:root:processing each element 3
+INFO:root:processing each element ['python', 4]
+INFO:root:processing sublist element: python
+INFO:root:processing sublist element: 4
+INFO:root:The final result is: [1, 2, 3, 4], ['hello']
